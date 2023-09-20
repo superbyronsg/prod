@@ -1,0 +1,267 @@
+{
+  "name": "S8070-004",
+  "version": 19,
+  "title": "Qlik Sense Enterprise Client Managed with SaaS add-on BYOIDP + Qlik Cloud Data Services",
+  "category": "NFR",
+  "description": "Bring your own IDP or Qlik Account|100 Professional, 100 Analyzer users, 10000 Analyzer Time Minutes, AutoML StartUp|Insight Bot, Qlik Alerting, FG| SAP Connector, Unified License, App Evaluation, Automation Tier 3, Reporting Service, Qlik Lineage Connector, JWT, Tenant Alias|Valid one year",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": true,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S8070-004",
+          "title": "Qlik Sense Enterprise Client Managed with SaaS add-on BYOIDP",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "NFR",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME",
+              "value": "10000",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME_UNIT",
+              "value": "6",
+              "counted": false
+            },
+            {
+              "name": "BYOK",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "WEBCONNECTORS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "ELASTIC",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QDM_ESSENTIALS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_SERVICE",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QCS_TENANTS",
+              "value": "1",
+              "counted": false
+            },
+            {
+              "name": "BYOIDP",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_STORAGE",
+              "value": "500",
+              "counted": false
+            },
+            {
+              "name": "APP_SIZE",
+              "value": "1000",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_RELOADS",
+              "value": "30",
+              "counted": false
+            },
+            {
+              "name": "MAX_RELOADS",
+              "value": "1000000",
+              "counted": false
+            },
+            {
+              "name": "INSIGHTBOT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QV_NODES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "QDS_NODES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "TENANT_ALIAS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SAAS_ALERTING",
+              "value": "FULL",
+              "counted": false
+            },
+            {
+              "name": "APP_EVALUATION_COUNT",
+              "value": "2",
+              "counted": false
+            },
+            {
+              "name": "REPORTING_SERVICE",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "LINEAGE_CONNECTOR_TIER",
+              "value": "2",
+              "counted": false
+            },
+            {
+              "name": "JWT_AUTH_ENABLED",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "AUTOMATION_TIER",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "EXTERNAL_DATA_CAPACITY",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "FINEGRAINEDAPP",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "FINEGRAINEDNOTES",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "AMLDEPMODEL",
+              "value": "5",
+              "counted": false
+            },
+            {
+              "name": "AMLCONTASKS",
+              "value": "5",
+              "counted": false
+            },
+            {
+              "name": "AMLDATASETSIZE",
+              "value": "1000000",
+              "counted": false
+            },
+            {
+              "name": "AMLDATACOLUMNS",
+              "value": "500",
+              "counted": false
+            },
+            {
+              "name": "AMLRATELIMIT",
+              "value": "5",
+              "counted": false
+            },
+            {
+              "name": "AMLADVFEATURES",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_DATA_INTEGRATION_LEGACY",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION_PER_USER",
+              "value": "500",
+              "counted": false
+            },
+            {
+              "name": "RECIPIENTS_PER_SUBSCRIPTION",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_INTERACTIVE_APPS",
+              "value": "100000",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_BACKGROUND_TASKS",
+              "value": "1000",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_QLIKVIEW_APPS",
+              "value": "3000",
+              "counted": false
+            },
+            {
+              "name": "MAX_USERS",
+              "value": "100000",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 365
+  },
+  "lasEnabled": true,
+  "includeControlNumber": false
+}

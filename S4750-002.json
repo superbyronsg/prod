@@ -1,0 +1,78 @@
+{
+  "name": "S4750-002",
+  "version": 3,
+  "title": "QlikView Enterprise Edition Server Temporary License",
+  "category": "EVALUATION",
+  "description": "QlikView Enterprise Edition Server LEF license with control number - Temporary Use Only NOT for evaluation|100 each of User, Session, Document and Usage CALs, Workbench, 2 Nodes|THIS PRODUCT IS NOT FOR SALE - Valid 30 Days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S4750-002",
+          "title": "QlikView Enterprise Edition Server Temporary License",
+          "attributes": [
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "10",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_USERCALS",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_DOCUMENTCALS",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_SESSIONCALS",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_USAGECALS",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "WORKBENCH",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_CLUSTER_NODES",
+              "value": "2",
+              "counted": false
+            },
+            {
+              "name": "TIMELIMIT",
+              "value": "",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": true,
+  "ranking": 4750002,
+  "includeControlNumber": true
+}

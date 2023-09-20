@@ -1,0 +1,119 @@
+{
+  "name": "INT1108-003",
+  "version": 4,
+  "title": "Qlik Sense Enterprise Client Managed Unified Key No QCS Tenant",
+  "category": "INTERNAL_USE",
+  "description": "100 Professional, 100 Analyzer users, 10000 Analyzer Capacity Minutes|Insight Advisor Chat, Qlik Alerting, QlikView Add-On, GeoCoding|Valid 5 years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT1108-003",
+          "title": "Qlik Sense Enterprise Client Managed",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME",
+              "value": "10000",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME_UNIT",
+              "value": "6",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "ELASTIC",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "GEOCODING",
+              "value": "10000",
+              "counted": false
+            },
+            {
+              "name": "WEBCONNECTORS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_SERVICE",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "INSIGHT_ADVISOR_CHAT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QV_NODES",
+              "value": "99",
+              "counted": false
+            },
+            {
+              "name": "QDS_NODES",
+              "value": "99",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": false,
+  "ranking": 1108103,
+  "productFamily": "Client-Managed",
+  "includeControlNumber": false
+}

@@ -1,0 +1,89 @@
+{
+  "name": "S1108-003",
+  "version": 2,
+  "title": "Qlik Sense Enterprise Client Managed Only TEMP key - LEF based",
+  "category": "EVALUATION",
+  "description": "100 Professional, 100 Analyzer users|Insight Bot, Qlik Alerting, GeoCoding 10000, SAP Connector|Valid 30 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S1108-003",
+          "title": "Qlik Sense Enterprise Client Managed Only TEMP key - LEF based",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "GEOCODING",
+              "value": "10000",
+              "counted": false
+            },
+            {
+              "name": "WEBCONNECTORS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SAPCONNECTOR",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "INSIGHTBOT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": true,
+  "ranking": 9108003,
+  "productFamily": "Legacy",
+  "includeControlNumber": true
+}

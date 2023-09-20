@@ -1,0 +1,63 @@
+{
+  "name": "INT8000-001",
+  "version": 2,
+  "title": "Qlik Sense Enterprise with Tokens Internal Use",
+  "category": "INTERNAL_USE",
+  "description": "Qlik Sense Enterprise with Tokens License and Control Number Activation LEF format, Qlik Alerting, Insight Advisor Chat, GeoAnalytics Base|Valid 5 years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT8000-001",
+          "title": "Qlik Sense Enterprise with Tokens Internal Use",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "TOKENS",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "INSIGHT_ADVISOR_CHAT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": true,
+  "ranking": 8000001,
+  "includeControlNumber": true
+}

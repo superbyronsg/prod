@@ -1,0 +1,83 @@
+{
+  "name": "INT1108-005",
+  "version": 2,
+  "title": "Qlik Sense Enterprise Client Managed Only Tech Preview LEF based",
+  "category": "INTERNAL_USE",
+  "description": "10 Professional, 10 Analyzer users|Insight Bot, Qlik Alerting|Valid 30 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT1108-005",
+          "title": "Qlik Sense Enterprise Client Managed Only Tech Preview LEF based",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "10",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "10",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "WEBCONNECTORS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "INSIGHTBOT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "OFFLINE",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": true,
+  "ranking": 1108005,
+  "includeControlNumber": true
+}

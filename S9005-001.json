@@ -1,0 +1,49 @@
+{
+  "name": "S9005-001",
+  "version": 9,
+  "title": "Qlik NPrinting",
+  "category": "EVALUATION",
+  "description": "3 Engines|Valid 30 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S9005-001",
+          "title": "Qlik NPrinting",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "60",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_ENGINES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": true,
+  "ranking": 2003001,
+  "productFamily": "Client-Managed",
+  "includeControlNumber": false
+}

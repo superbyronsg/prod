@@ -1,0 +1,54 @@
+{
+  "name": "S5077-001",
+  "version": 5,
+  "title": "Qlik Catalog",
+  "category": "EVALUATION",
+  "description": "Qlik Catalog full version|1000 tables|Valid 14 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S5077-001",
+          "title": "Qlik Catalog",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "95",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_TABLES",
+              "value": "1000",
+              "counted": false
+            },
+            {
+              "name": "CATALOG_MODE",
+              "value": "FULL",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 14
+  },
+  "lasEnabled": true,
+  "ranking": 2000001,
+  "productFamily": "Client-Managed",
+  "includeControlNumber": false
+}

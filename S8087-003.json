@@ -1,0 +1,99 @@
+{
+  "name": "S8087-003",
+  "version": 4,
+  "title": "QlikView Infrastructure (Add-On to QSE SAAS)",
+  "category": "EVALUATION",
+  "description": "Standalone SLK ONLY for QlikView Server and Publisher, 100 Professional, 100 Analyzer ,10000 Analyzer Capacity minutes, Workbench, GeoAnalytics Base|Valid 30 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S8087-003",
+          "title": "QlikView Infrastructure Add-On to QSE SAAS",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "10",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME",
+              "value": "10000",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME_UNIT",
+              "value": "6",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_SERVICE",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "WORKBENCH",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "ELASTIC",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QV_NODES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "QDS_NODES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": true,
+  "ranking": 3087003,
+  "productFamily": "Client-Managed",
+  "includeControlNumber": false
+}

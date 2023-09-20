@@ -1,0 +1,48 @@
+{
+  "name": "INT3960-001",
+  "version": 3,
+  "title": "QlikView Desktop",
+  "category": "INTERNAL_USE",
+  "description": "QlikView Desktop Local Client INTERNAL USE|LEF License \u0026 Control - Valid 5 Years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT3960-001",
+          "title": "QlikView Desktop",
+          "attributes": [
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "TIMELIMIT",
+              "value": "",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": true,
+  "ranking": 3960001,
+  "includeControlNumber": true
+}

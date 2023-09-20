@@ -1,0 +1,48 @@
+{
+  "name": "S6006-002",
+  "version": 2,
+  "title": "Qlik GeoAnalytics Enterprise",
+  "category": "NFR",
+  "description": "Qlik GeoAnalytics Enterprise|valid 365 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S6006-002",
+          "title": "Qlik GeoAnalytics Enterprise",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "90",
+              "counted": false
+            },
+            {
+              "name": "GEO_SERVER",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 365
+  },
+  "lasEnabled": false,
+  "ranking": 6006002,
+  "includeControlNumber": false
+}

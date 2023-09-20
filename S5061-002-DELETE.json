@@ -1,0 +1,48 @@
+{
+  "name": "S5061-002",
+  "version": 5,
+  "title": "Qlik Big Data Index",
+  "category": "RETIRED_N_FR",
+  "description": "Qlik Big Data Index|Valid one year",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S5061-002",
+          "title": "Qlik Big Data Index",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "NFR",
+              "counted": false
+            },
+            {
+              "name": "ABDI",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "55",
+              "counted": false
+            },
+            {
+              "name": "INDEX_TB",
+              "value": "10",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 365
+  },
+  "lasEnabled": false,
+  "ranking": 5061002,
+  "includeControlNumber": false
+}

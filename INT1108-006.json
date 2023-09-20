@@ -1,0 +1,84 @@
+{
+  "name": "INT1108-006",
+  "version": 1,
+  "title": "Qlik Sense Enterprise Client Managed Only - LEF based",
+  "category": "INTERNAL_USE",
+  "description": "10 Professional, 10 Analyzer users|Insight Bot, Qlik Alerting|Valid 5 years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT1108-006",
+          "title": "Qlik Sense Enterprise Client Managed Only - LEF based",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "10",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "10",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "WEBCONNECTORS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "INSIGHTBOT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "OFFLINE",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": true,
+  "ranking": 9108006,
+  "productFamily": "Legacy",
+  "includeControlNumber": true
+}

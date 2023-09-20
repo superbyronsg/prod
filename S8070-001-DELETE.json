@@ -1,0 +1,142 @@
+{
+  "name": "S8070-001",
+  "version": 14,
+  "title": "Qlik Sense Enterprise Client Managed + SaaS Add-on Evaluation - Qlik IDP",
+  "category": "EVALUATION",
+  "description": "Qlik IDP|100 Professional, 100 Analyzer users, 10000 Analyzer Time Minutes|Insight Bot, Qlik Alerting, QSM Blackberry, Unified License|Valid 30 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": true,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S8070-001",
+          "title": "Qlik Sense Enterprise Client Managed + SaaS Add-on Evaluation - Qlik IDP",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ELASTIC",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME",
+              "value": "10000",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME_UNIT",
+              "value": "6",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "WEBCONNECTORS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_SERVICE",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QCS_TENANTS",
+              "value": "1",
+              "counted": false
+            },
+            {
+              "name": "BYOIDP",
+              "value": "NO",
+              "counted": false
+            },
+            {
+              "name": "APP_SIZE",
+              "value": "1000",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_STORAGE",
+              "value": "500",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_RELOADS",
+              "value": "30",
+              "counted": false
+            },
+            {
+              "name": "MAX_RELOADS",
+              "value": "1000000",
+              "counted": false
+            },
+            {
+              "name": "INSIGHTBOT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QV_NODES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "TENANT_ALIAS",
+              "value": "NO",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": false,
+  "includeControlNumber": false
+}

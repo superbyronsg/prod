@@ -1,0 +1,53 @@
+{
+  "name": "S5077-002",
+  "version": 4,
+  "title": "Qlik Catalog",
+  "category": "NFR",
+  "description": "Qlik Catalog full version NFR accreditation|1000 tables|Valid 6 months",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S5077-002",
+          "title": "Qlik Catalog",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "NFR",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "95",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_TABLES",
+              "value": "1000",
+              "counted": false
+            },
+            {
+              "name": "CATALOG_MODE",
+              "value": "FULL",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 183
+  },
+  "lasEnabled": false,
+  "ranking": 5077002,
+  "includeControlNumber": false
+}

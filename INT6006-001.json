@@ -1,0 +1,53 @@
+{
+  "name": "INT6006-001",
+  "version": 2,
+  "title": "Qlik GeoAnalytics Enterprise",
+  "category": "INTERNAL_USE",
+  "description": "Qlik GeoAnalytics Enterprise|Valid for 5 years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT6006-001",
+          "title": "Qlik GeoAnalytics Enterprise",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "90",
+              "counted": false
+            },
+            {
+              "name": "GEOCODING",
+              "value": "1000000",
+              "counted": false
+            },
+            {
+              "name": "GEO_SERVER",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": false,
+  "ranking": 6006001,
+  "includeControlNumber": false
+}

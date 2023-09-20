@@ -1,0 +1,49 @@
+{
+  "name": "S6006-001",
+  "version": 3,
+  "title": "Qlik GeoAnalytics Enterprise",
+  "category": "EVALUATION",
+  "description": "Qlik GeoAnalytics Enterprise Server|valid 30 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S6006-001",
+          "title": "Qlik GeoAnalytics Enterprise",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "90",
+              "counted": false
+            },
+            {
+              "name": "GEO_SERVER",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": true,
+  "ranking": 2001001,
+  "productFamily": "Client-Managed",
+  "includeControlNumber": false
+}

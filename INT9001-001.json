@@ -1,0 +1,38 @@
+{
+  "name": "INT9001-001",
+  "version": 1,
+  "title": "Qlik NPrinting Designer For NP16",
+  "category": "INTERNAL_USE",
+  "description": "3 engines|Valid 3 years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT9001-001",
+          "title": "Qlik NPrinting Deisnger For NP16",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "6",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": true,
+  "ranking": 9000001,
+  "includeControlNumber": true
+}

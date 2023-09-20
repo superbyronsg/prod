@@ -1,0 +1,53 @@
+{
+  "name": "INT5077-002",
+  "version": 1,
+  "title": "Qlik Catalog Internal Evaluation",
+  "category": "INTERNAL_USE",
+  "description": "Qlik Catalog Full Version for Internal Employee valid 7 days, with 1000 tables",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT5077-002",
+          "title": "Qlik Catalog",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "95",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_TABLES",
+              "value": "1000",
+              "counted": false
+            },
+            {
+              "name": "CATALOG_MODE",
+              "value": "FULL",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 7
+  },
+  "lasEnabled": false,
+  "ranking": 5077002,
+  "includeControlNumber": false
+}

@@ -1,0 +1,74 @@
+{
+  "name": "INT8006-001",
+  "version": 3,
+  "title": "Qlik Sense Enterprise CPU Core based Site",
+  "category": "INTERNAL_USE",
+  "description": "QSE Core Based - 16 Cores LEF Format|Insight Advisor Chat, Qlik Alerting|Valid 5 years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT8006-001",
+          "title": "Qlik Sense Enterprise CPU Core based Site",
+          "attributes": [
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "PRODUCT",
+              "value": "ENTERPRISE",
+              "counted": false
+            },
+            {
+              "name": "INSIGHT_ADVISOR_CHAT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "NO",
+              "counted": false
+            },
+            {
+              "name": "NO_OF_CORES",
+              "value": "16",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "TIMELIMIT",
+              "value": "",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": true,
+  "ranking": 8006001,
+  "productFamily": "Legacy",
+  "includeControlNumber": true
+}

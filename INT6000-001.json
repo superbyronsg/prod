@@ -1,0 +1,48 @@
+{
+  "name": "INT6000-001",
+  "version": 2,
+  "title": "Qlik GeoAnalytics Base",
+  "category": "INTERNAL_USE",
+  "description": "Qlik GeoAnalytics Base|Valid for 5 years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "INT6000-001",
+          "title": "Qlik GeoAnalytics Base",
+          "attributes": [
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "90",
+              "counted": false
+            },
+            {
+              "name": "GEOCODING",
+              "value": "1000000",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": false,
+  "ranking": 6000001,
+  "includeControlNumber": false
+}

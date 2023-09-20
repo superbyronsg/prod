@@ -1,0 +1,238 @@
+{
+  "name": "S1008-006",
+  "version": 3,
+  "title": "For Elite Partners, Master Resellers and GSIs - Qlik Cloud Enterprise NFR (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
+  "category": "NFR",
+  "description": "100 Professional, 100 Analyzer users, 10 Analzyer Capacity Packs |SaaS Alerting, SAP connector, AutoML Premier, Application Automation Tier 3, Reporting Service, Lineage Connector, Data Movement and Transformations|Valid 365 days",
+  "sendLicenseKeyEmail": false,
+  "sendTenantEmail": true,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S1008-006",
+          "title": "For Elite Partners, Master Resellers and GSIs - Qlik Cloud Enterprise NFR (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "51",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "NFR",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME",
+              "value": "10000",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME_UNIT",
+              "value": "6",
+              "counted": false
+            },
+            {
+              "name": "AMLDEPMODEL",
+              "value": "20",
+              "counted": false
+            },
+            {
+              "name": "AMLCONTASKS",
+              "value": "15",
+              "counted": false
+            },
+            {
+              "name": "AMLDATASETSIZE",
+              "value": "10000000",
+              "counted": false
+            },
+            {
+              "name": "AMLDATACOLUMNS",
+              "value": "500",
+              "counted": false
+            },
+            {
+              "name": "AMLADVFEATURES",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "AMLRATELIMIT",
+              "value": "5",
+              "counted": false
+            },
+            {
+              "name": "APP_EVALUATION_COUNT",
+              "value": "2",
+              "counted": false
+            },
+            {
+              "name": "APP_SIZE",
+              "value": "1000",
+              "counted": false
+            },
+            {
+              "name": "AUTOMATION_TIER",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "BYOIDP",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "BYOK",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_DATA_INTEGRATION_LEGACY",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_SERVICE",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_STORAGE",
+              "value": "500",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_BACKGROUND_TASKS",
+              "value": "1000",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_INTERACTIVE_APPS",
+              "value": "100000",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_QLIKVIEW_APPS",
+              "value": "3000",
+              "counted": false
+            },
+            {
+              "name": "CONCURRENT_RELOADS",
+              "value": "30",
+              "counted": false
+            },
+            {
+              "name": "EXTERNAL_DATA_CAPACITY",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "FINEGRAINEDAPP",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "FINEGRAINEDNOTES",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "GEOCODING",
+              "value": "10000",
+              "counted": false
+            },
+            {
+              "name": "JWT_AUTH_ENABLED",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "LINEAGE_CONNECTOR_TIER",
+              "value": "2",
+              "counted": false
+            },
+            {
+              "name": "MAX_RELOADS",
+              "value": "1000000",
+              "counted": false
+            },
+            {
+              "name": "MAX_USERS",
+              "value": "100000",
+              "counted": false
+            },
+            {
+              "name": "QCS_TENANTS",
+              "value": "1",
+              "counted": false
+            },
+            {
+              "name": "QV_NODES",
+              "value": "1",
+              "counted": false
+            },
+            {
+              "name": "REPORTING_SERVICE",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "RECIPIENTS_PER_SUBSCRIPTION",
+              "value": "100",
+              "counted": false
+            },
+            {
+              "name": "SAPCONNECTOR",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SAAS_ALERTING",
+              "value": "FULL",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION_PER_USER",
+              "value": "500",
+              "counted": false
+            },
+            {
+              "name": "TENANT_ALIAS",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 365
+  },
+  "lasEnabled": true,
+  "ranking": 1008006,
+  "includeControlNumber": true
+}

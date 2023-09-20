@@ -1,0 +1,69 @@
+{
+  "name": "S8003-001",
+  "version": 2,
+  "title": "Qlik Analytics Platform External Edition EVALUATION",
+  "category": "EVALUATION",
+  "description": "QAP External Edition EVALUATION LEF Format Evaluation with control number|Qlik Insight Advisor Chat|Valid 30 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S8003-001",
+          "title": "Qlik Analytics Platform External Edition EVALUATION",
+          "attributes": [
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "PRODUCT",
+              "value": "PLATFORM",
+              "counted": false
+            },
+            {
+              "name": "NO_OF_CORES",
+              "value": "8",
+              "counted": false
+            },
+            {
+              "name": "INSIGHT_ADVISOR_CHAT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "NO",
+              "counted": false
+            },
+            {
+              "name": "TIMELIMIT",
+              "value": "",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": true,
+  "ranking": 8013001,
+  "productFamily": "Legacy",
+  "includeControlNumber": true
+}

@@ -1,0 +1,58 @@
+{
+  "name": "S4500-002",
+  "version": 2,
+  "title": "QlikView Publisher Temporary License",
+  "category": "EVALUATION",
+  "description": "QlikView Publisher LEF license with control number - Temporary Use Only, NOT for evaluation|2 Distribution Services, PDF Distribution|THIS PRODUCT IS NO LONGER FOR SALE - Valid 30 days",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S4500-002",
+          "title": "QlikView Publisher Temporary License",
+          "attributes": [
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "EVALUATION",
+              "counted": false
+            },
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "30",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_XS",
+              "value": "2",
+              "counted": false
+            },
+            {
+              "name": "PDF_GENERATION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "TIMELIMIT",
+              "value": "",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 30
+  },
+  "lasEnabled": true,
+  "ranking": 4500002,
+  "includeControlNumber": true
+}

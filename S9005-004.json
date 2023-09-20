@@ -1,0 +1,48 @@
+{
+  "name": "S9005-004",
+  "version": 1,
+  "title": "Qlik NPrinting Server (SLK)",
+  "category": "INTERNAL_USE",
+  "description": "3 engines|Valid 5 years",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S9005-004",
+          "title": "Qlik NPrinting Server (SLK)",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "60",
+              "counted": false
+            },
+            {
+              "name": "NUMBER_OF_ENGINES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "INTERNAL_USE",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 1825
+  },
+  "lasEnabled": true,
+  "ranking": 9005004,
+  "includeControlNumber": false
+}

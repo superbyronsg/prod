@@ -1,0 +1,112 @@
+{
+  "name": "S8070-008",
+  "version": 2,
+  "title": "Qlik Sense Enterprise Client Managed with QV Infrastructure",
+  "category": "NFR",
+  "description": "QSE Client Managed - 50 Professional, 50 Analyzer users, 5000 Analyzer Capacity Minutes|Add-ons Insight Bot, Qlik Alerting, SAP Connector, QlikView Infrastructure Unified Key |Valid one year",
+  "sendLicenseKeyEmail": true,
+  "sendTenantEmail": false,
+  "template": {
+    "lineSpecs": [
+      {
+        "item": {
+          "name": "S8070-008",
+          "title": "Qlik Sense Enterprise Client Managed with QV Infrastructure",
+          "attributes": [
+            {
+              "name": "PRODUCTLEVEL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "SUBSCRIPTION",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "SPECIAL_EDITION",
+              "value": "NFR",
+              "counted": false
+            },
+            {
+              "name": "PROFESSIONAL",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER",
+              "value": "50",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME",
+              "value": "5000",
+              "counted": false
+            },
+            {
+              "name": "ANALYZER_TIME_UNIT",
+              "value": "6",
+              "counted": false
+            },
+            {
+              "name": "GEOANALYTICS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "WEBCONNECTORS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "ELASTIC",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CLOUD_SERVICE",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "INSIGHTBOT",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "CHANNELS",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "QV_NODES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "QDS_NODES",
+              "value": "3",
+              "counted": false
+            },
+            {
+              "name": "QLIK_ALERTING",
+              "value": "YES",
+              "counted": false
+            },
+            {
+              "name": "DELAYED_SYNC",
+              "value": "YES",
+              "counted": false
+            }
+          ]
+        },
+        "count": 1
+      }
+    ]
+  },
+  "expirationRules": {
+    "initialDurationDays": 365
+  },
+  "lasEnabled": false,
+  "includeControlNumber": false
+}
