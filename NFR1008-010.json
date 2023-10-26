@@ -1,7 +1,7 @@
 {
   "name": "NFR1008-010",
-  "version": 2,
-  "title": "OEM Qlik Cloud Enterprise NFR (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
+  "version": 3,
+  "title": "OEM Qlik Sense Enterprise SaaS, Qlik Data Integration",
   "category": "NFR",
   "description": "100 Professional, 100 Analyzer, 10 tenants, JWT Auth enabled|No tenant alias",
   "sendLicenseKeyEmail": false,
@@ -11,7 +11,7 @@
       {
         "item": {
           "name": "NFR1008-010",
-          "title": "OEM Qlik Cloud Enterprise Evaluation (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
+          "title": "OEM Qlik Sense Enterprise SaaS, Qlik Data Integration",
           "attributes": [
             {
               "name": "PRODUCTLEVEL",
@@ -239,5 +239,6 @@
   },
   "lasEnabled": true,
   "ranking": 1008010,
+  "productFamily": "SaaS",
   "includeControlNumber": false
 }

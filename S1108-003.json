@@ -1,9 +1,9 @@
 {
   "name": "S1108-003",
-  "version": 2,
+  "version": 3,
   "title": "Qlik Sense Enterprise Client Managed Only TEMP key - LEF based",
   "category": "EVALUATION",
-  "description": "100 Professional, 100 Analyzer users|Insight Bot, Qlik Alerting, GeoCoding 10000, SAP Connector|Valid 30 days",
+  "description": "100 Professional, 100 Analyzer users|Insight Bot, Qlik Alerting, GeoCoding 10000|Valid 30 days",
   "sendLicenseKeyEmail": true,
   "sendTenantEmail": false,
   "template": {
@@ -50,11 +50,6 @@
             },
             {
               "name": "WEBCONNECTORS",
-              "value": "YES",
-              "counted": false
-            },
-            {
-              "name": "SAPCONNECTOR",
               "value": "YES",
               "counted": false
             },

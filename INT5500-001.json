@@ -1,6 +1,6 @@
 {
   "name": "INT5500-001",
-  "version": 3,
+  "version": 4,
   "title": "Qlik SAP Connector",
   "category": "INTERNAL_USE",
   "description": "Qlik SAP Connector powered by SAP NetWeaver for Windows LEF Format|Control number activation Internal Use|Valid 5 years",
@@ -43,6 +43,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": true,
-  "ranking": 5500001,
+  "ranking": 2008001,
+  "productFamily": "Client-Managed",
   "includeControlNumber": true
 }

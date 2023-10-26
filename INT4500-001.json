@@ -1,6 +1,6 @@
 {
   "name": "INT4500-001",
-  "version": 3,
+  "version": 4,
   "title": "QlikView Publisher",
   "category": "INTERNAL_USE",
   "description": "QlikView Publisher LEF license with control number INTERNAL USE|99 Distribution Services, PDF Distribution|Valid 5 Year",
@@ -53,6 +53,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": true,
-  "ranking": 4500001,
+  "ranking": 9560001,
+  "productFamily": "Legacy",
   "includeControlNumber": true
 }

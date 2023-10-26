@@ -1,6 +1,6 @@
 {
   "name": "NFR5077-001",
-  "version": 0,
+  "version": 1,
   "title": "Qlik Catalog",
   "category": "NFR",
   "description": "Qlik Catalog full version NFR accreditation|1000 tables|Valid 12 months",
@@ -48,6 +48,7 @@
     "initialDurationDays": 365
   },
   "lasEnabled": true,
-  "ranking": 5077001,
+  "ranking": 2027001,
+  "productFamily": "Client-Managed",
   "includeControlNumber": false
 }

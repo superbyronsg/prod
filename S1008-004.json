@@ -1,7 +1,7 @@
 {
   "name": "S1008-004",
-  "version": 3,
-  "title": "For Authorised Partners - Qlik Cloud Enterprise NFR (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
+  "version": 5,
+  "title": "Qlik Sense Enterprise SaaS / Qlik Cloud Data Services / Authorised",
   "category": "NFR",
   "description": "30 Professional, 30 Analyzer users, 3 Analzyer Capacity Packs |SaaS Alerting, SAP connector, AutoML Premier, Application Automation Tier 3, Reporting Service, Lineage Connector, Data Movement and Transformations|Valid 365 days",
   "sendLicenseKeyEmail": false,
@@ -11,7 +11,7 @@
       {
         "item": {
           "name": "S1008-004",
-          "title": "For Authorised Partners - Qlik Cloud Enterprise NFR (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
+          "title": "Qlik Sense Enterprise SaaS / Qlik Cloud Data Services / Authorised",
           "attributes": [
             {
               "name": "PRODUCTLEVEL",
@@ -60,7 +60,7 @@
             },
             {
               "name": "AMLDATASETSIZE",
-              "value": "10000000",
+              "value": "100000000",
               "counted": false
             },
             {
@@ -234,5 +234,6 @@
   },
   "lasEnabled": true,
   "ranking": 1008004,
+  "productFamily": "SaaS",
   "includeControlNumber": false
 }

@@ -1,6 +1,6 @@
 {
   "name": "INT6000-001",
-  "version": 2,
+  "version": 3,
   "title": "Qlik GeoAnalytics Base",
   "category": "INTERNAL_USE",
   "description": "Qlik GeoAnalytics Base|Valid for 5 years",
@@ -42,7 +42,8 @@
   "expirationRules": {
     "initialDurationDays": 1825
   },
-  "lasEnabled": false,
-  "ranking": 6000001,
+  "lasEnabled": true,
+  "ranking": 9600001,
+  "productFamily": "Legacy",
   "includeControlNumber": false
 }

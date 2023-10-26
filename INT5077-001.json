@@ -1,6 +1,6 @@
 {
   "name": "INT5077-001",
-  "version": 3,
+  "version": 4,
   "title": "Qlik Catalog Internal Evaluation",
   "category": "INTERNAL_USE",
   "description": "Qlik Catalog Full Version for Internal Employee, with 1000 tables | Valid for 5 Years",
@@ -48,6 +48,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": false,
-  "ranking": 5077001,
+  "ranking": 2000001,
+  "productFamily": "Client-Managed",
   "includeControlNumber": false
 }

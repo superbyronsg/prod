@@ -1,6 +1,6 @@
 {
   "name": "S8070-006",
-  "version": 31,
+  "version": 32,
   "title": "Qlik Sense Enterprise Client Managed with SaaS Add-on Evaluation + Qlik Cloud Data Services",
   "category": "EVALUATION",
   "description": "QSE Client Managed with SaaS Add-on SSO/IDP or Qlik Account|100 Professional, 100 Analyzer users, 10000 Analyzer Time Minutes, AutoML Premier|Insight Bot, Qlik Alerting, SAAS Alerting, GeoCoding 10000, SAP Connector, JWT Authentication|FG, Reporting Service, Qlik Lineage Connector, Automation Tier 1, App Evaluation, QlikView Infrastructure add-on to QSE CM, BYOK, QCDI|Valid 30 days",
@@ -85,7 +85,7 @@
             },
             {
               "name": "AMLDATASETSIZE",
-              "value": "10000000",
+              "value": "100000000",
               "counted": false
             },
             {

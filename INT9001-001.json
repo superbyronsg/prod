@@ -1,6 +1,6 @@
 {
   "name": "INT9001-001",
-  "version": 1,
+  "version": 2,
   "title": "Qlik NPrinting Designer For NP16",
   "category": "INTERNAL_USE",
   "description": "3 engines|Valid 3 years",
@@ -33,6 +33,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": true,
-  "ranking": 9000001,
+  "ranking": 9900001,
+  "productFamily": "Legacy",
   "includeControlNumber": true
 }

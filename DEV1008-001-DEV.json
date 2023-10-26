@@ -1,8 +1,8 @@
 {
   "name": "DEV1008-001",
-  "version": 9,
+  "version": 12,
   "title": "Qlik Cloud Enterprise (Qlik Sense Enterprise SaaS, Qlik Data Integration) Developer Instance",
-  "category": "EVALUATION",
+  "category": "TRIAL",
   "description": "DO NOT USE - Special Professional Developer / Integrator, 2 professional, 1 analyzer, 100 minutes analyzer capacity/month, Reporting Service 100, QLC Base, FG|1 year expiration|Contact Jeffrey Goldberg",
   "sendLicenseKeyEmail": false,
   "sendTenantEmail": true,
@@ -238,6 +238,7 @@
     "initialDurationDays": 365
   },
   "lasEnabled": true,
-  "ranking": 1008100,
+  "ranking": 9908100,
+  "productFamily": "Legacy",
   "includeControlNumber": false
 }

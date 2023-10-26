@@ -1,6 +1,6 @@
 {
   "name": "LP1008-001",
-  "version": 10,
+  "version": 11,
   "title": "Qlik Cloud Enterprise (Qlik Sense Enterprise SaaS, Qlik Data Integration) for Luminaries",
   "category": "LUMINARY_PROGRAM",
   "description": "Qlik IDP|100 Professional, 100 Analyzer users, 10000 Analzyer Time Minutes, AutoML Premier|SaaS Alerting, SAP connector, App Evaluation, Automation Tier 1, FG, QRS, BYOK, QCDI|Valid 365 days",
@@ -60,7 +60,7 @@
             },
             {
               "name": "AMLDATASETSIZE",
-              "value": "10000000",
+              "value": "100000000",
               "counted": false
             },
             {

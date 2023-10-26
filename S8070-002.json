@@ -1,6 +1,6 @@
 {
   "name": "S8070-002",
-  "version": 35,
+  "version": 38,
   "title": "Qlik Sense Enterprise Client Managed + SaaS Add-on BYOIDP + Qlik Cloud Data Services",
   "category": "INTERNAL_USE",
   "description": "Bring your own IDP|100 Professional, 100 Analyzer users, 10000 Analyzer Time Minutes, AutoML Premier|Insight Bot, Qlik Alerting, SAAS Alerting, Automation Tier 2, GeoCoding|FG, SAP Connector, Unified License, JWT, Tenant Alias, Qlik Reporting Service, Qlik Lineage Connector, App Evaluation, BYOK, QCDI|Valid 5 years",
@@ -85,7 +85,7 @@
             },
             {
               "name": "AMLDATASETSIZE",
-              "value": "10000000",
+              "value": "100000000",
               "counted": false
             },
             {
@@ -253,6 +253,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": true,
-  "ranking": 8070002,
+  "ranking": 1008011,
+  "productFamily": "Client-Managed",
   "includeControlNumber": false
 }

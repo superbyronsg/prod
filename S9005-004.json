@@ -1,6 +1,6 @@
 {
   "name": "S9005-004",
-  "version": 1,
+  "version": 2,
   "title": "Qlik NPrinting Server (SLK)",
   "category": "INTERNAL_USE",
   "description": "3 engines|Valid 5 years",
@@ -43,6 +43,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": true,
-  "ranking": 9005004,
+  "ranking": 2005004,
+  "productFamily": "Legacy",
   "includeControlNumber": false
 }

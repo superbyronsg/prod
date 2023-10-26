@@ -1,7 +1,7 @@
 {
   "name": "NFRGOV1008-001",
-  "version": 10,
-  "title": "Qlik Cloud Government Enterprise NFR (Qlik Sense Enterprise SaaS, Qlik Cloud Data Integration)",
+  "version": 11,
+  "title": "Qlik Cloud Government (Qlik Sense Enterprise SaaS, Qlik Cloud Data Service)",
   "category": "NFR",
   "description": "US PUBLIC SECTOR GOVERNMENT TEAM USE ONLY!|10 Professional, 10 Analyzer users, 1000 Analzyer Time Minutes|SaaS Alerting, SAP connector, BYOIDP, GeoAnalytics, Reporting Service 1000, App Evaluation, Automation Tier 1,  Fine Grain. Lineage Connector, Data Movement and Transformations|Valid 365 days|PLEASE SEND AN EMAIL TO PAUL PETERSON AFTER CREATION OF THE EVAL INCLUDING THE OPPORTUNITY LINK. NOTE THIS EVAL DOES NOT ACTUALLY SEND AN EMAIL TO THE PRIMARY CONTACT DESPITE THE FORM SAYING IT WILL ",
   "sendLicenseKeyEmail": false,
@@ -11,7 +11,7 @@
       {
         "item": {
           "name": "NFRGOV1008-001",
-          "title": "Qlik Cloud Government Enterprise NFR (Qlik Sense Enterprise SaaS, Qlik Cloud Data Integration)",
+          "title": "Qlik Cloud Government (Qlik Sense Enterprise SaaS, Qlik Cloud Data Service)",
           "attributes": [
             {
               "name": "PRODUCTLEVEL",
@@ -193,6 +193,7 @@
     "initialDurationDays": 365
   },
   "lasEnabled": true,
-  "ranking": 1008005,
+  "ranking": 1008007,
+  "productFamily": "SaaS",
   "includeControlNumber": false
 }

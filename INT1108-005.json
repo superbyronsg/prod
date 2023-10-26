@@ -1,6 +1,6 @@
 {
   "name": "INT1108-005",
-  "version": 2,
+  "version": 0,
   "title": "Qlik Sense Enterprise Client Managed Only Tech Preview LEF based",
   "category": "INTERNAL_USE",
   "description": "10 Professional, 10 Analyzer users|Insight Bot, Qlik Alerting|Valid 30 days",
@@ -78,6 +78,7 @@
     "initialDurationDays": 30
   },
   "lasEnabled": true,
-  "ranking": 1108005,
+  "ranking": 9908005,
+  "productFamily": "Others",
   "includeControlNumber": true
 }

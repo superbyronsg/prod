@@ -1,7 +1,7 @@
 {
   "name": "S8087-002",
-  "version": 2,
-  "title": "QlikView Infrastructure (Add-On to QSE SAAS)",
+  "version": 3,
+  "title": "QlikView Infrastructure Add-On to QSE SAAS",
   "category": "NFR",
   "description": "Standalone SLK ONLY for QlikView Server and Publisher, 10 Professional, 10 Analyzer ,1000 Analyzer Capacity minutes, GeoAnalytics Base|Valid one year",
   "sendLicenseKeyEmail": true,
@@ -93,6 +93,7 @@
     "initialDurationDays": 365
   },
   "lasEnabled": false,
-  "ranking": 8070002,
+  "ranking": 2070002,
+  "productFamily": "Client-Managed",
   "includeControlNumber": false
 }

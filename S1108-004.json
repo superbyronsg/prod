@@ -1,7 +1,7 @@
 {
   "name": "S1108-004",
-  "version": 2,
-  "title": "For Authorized Partners - Qlik Sense Enterprise Client Managed Only",
+  "version": 3,
+  "title": "Qlik Sense Enterprise Client Managed / Authorised",
   "category": "NFR",
   "description": "30 Professional, 30 Analyzer users, 3 Analyzer Capacity Packs|Insight advisor chat, Qlik Alerting, Unified License|Valid one year",
   "sendLicenseKeyEmail": true,
@@ -11,7 +11,7 @@
       {
         "item": {
           "name": "S1108-004",
-          "title": "For Authorized Partners - Qlik Sense Enterprise Client Managed Only",
+          "title": "Qlik Sense Enterprise Client Managed / Authorised",
           "attributes": [
             {
               "name": "PRODUCTLEVEL",
@@ -104,5 +104,6 @@
   },
   "lasEnabled": true,
   "ranking": 1108004,
+  "productFamily": "Client-Managed",
   "includeControlNumber": false
 }

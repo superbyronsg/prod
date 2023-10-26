@@ -1,6 +1,6 @@
 {
   "name": "AP1008-001",
-  "version": 19,
+  "version": 20,
   "title": "Qlik Cloud Enterprise (Qlik Sense Enterprise SaaS, Qlik Data Integration) for Education Training - 186 Days",
   "category": "ACADEMIC_PROGRAM",
   "description": "5 Professional, 5 Analyzer users and 100 Analyzer Time Minutes, AutoML Premier|SaaS Alerting, SAP connector, FG, App Evaluation, Automation Tier 1|Valid 186 days",
@@ -60,7 +60,7 @@
             },
             {
               "name": "AMLDATASETSIZE",
-              "value": "10000000",
+              "value": "100000000",
               "counted": false
             },
             {

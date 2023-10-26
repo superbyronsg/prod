@@ -1,6 +1,6 @@
 {
   "name": "IUL1008-001",
-  "version": 5,
+  "version": 6,
   "title": "Qlik Cloud Enterprise IUL (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
   "category": "IUL",
   "description": "Meant for Authorised, Select and Elite Partners and Master Resellers, NOT for GSI | Own IDP/SSO required or Qlik Account|10 Professional, 25 Analyzer users, AutoML Premier|SaaS Alerting, SAP connector, App Evaluation, Application Automation Tier 3, Reporting Service, Lineage Connector, Data Movement and Transformations|Valid 365 days",
@@ -50,7 +50,7 @@
             },
             {
               "name": "AMLDATASETSIZE",
-              "value": "10000000",
+              "value": "100000000",
               "counted": false
             },
             {

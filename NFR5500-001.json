@@ -1,6 +1,6 @@
 {
   "name": "NFR5500-001",
-  "version": 0,
+  "version": 1,
   "title": "Qlik SAP Connector",
   "category": "NFR",
   "description": "Qlik SAP Connector powered by SAP NetWeaver for Windows LEF Format|Control number activation Internal Use|Valid 1 year",
@@ -43,6 +43,7 @@
     "initialDurationDays": 365
   },
   "lasEnabled": true,
-  "ranking": 5500001,
+  "ranking": 2500001,
+  "productFamily": "Client-Managed",
   "includeControlNumber": true
 }

@@ -1,6 +1,6 @@
 {
   "name": "S9005-002",
-  "version": 10,
+  "version": 12,
   "title": "Qlik NPrinting Server (Control Number)",
   "category": "INTERNAL_USE",
   "description": "3 engines|Valid 5 years",
@@ -43,6 +43,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": true,
-  "ranking": 9005002,
+  "ranking": 9805002,
+  "productFamily": "Legacy",
   "includeControlNumber": true
 }

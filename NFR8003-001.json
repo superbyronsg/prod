@@ -1,7 +1,7 @@
 {
   "name": "NFR8003-001",
-  "version": 2,
-  "title": "Qlik Analytics Platform External Edition NFR",
+  "version": 3,
+  "title": "Qlik Analytics Platform External Edition",
   "category": "NFR",
   "description": "QAP External Edition NFR LEF Format Evaluation with control number|Insight Advisor Chat|Valid 365 days",
   "sendLicenseKeyEmail": true,
@@ -11,7 +11,7 @@
       {
         "item": {
           "name": "NFR8003-001",
-          "title": "Qlik Analytics Platform External Edition NFR",
+          "title": "Qlik Analytics Platform External Edition",
           "attributes": [
             {
               "name": "SUBSCRIPTION",
@@ -64,5 +64,6 @@
   },
   "lasEnabled": true,
   "ranking": 8003001,
+  "productFamily": "Legacy",
   "includeControlNumber": true
 }

@@ -1,6 +1,6 @@
 {
   "name": "INT3960-001",
-  "version": 3,
+  "version": 4,
   "title": "QlikView Desktop",
   "category": "INTERNAL_USE",
   "description": "QlikView Desktop Local Client INTERNAL USE|LEF License \u0026 Control - Valid 5 Years",
@@ -43,6 +43,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": true,
-  "ranking": 3960001,
+  "ranking": 9570001,
+  "productFamily": "Legacy",
   "includeControlNumber": true
 }

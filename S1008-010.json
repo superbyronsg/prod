@@ -1,7 +1,7 @@
 {
   "name": "S1008-010",
-  "version": 6,
-  "title": "OEM Qlik Cloud Enterprise Evaluation (Qlik Sense Enterprise SaaS, Qlik Cloud Data Services)",
+  "version": 7,
+  "title": "OEM Qlik Sense Enterprise SaaS and Qlik Cloud Data Services",
   "category": "EVALUATION",
   "description": "100 Professional, 100 Analyzer, 5 tenants, JWT Auth enabled|No tenant alias",
   "sendLicenseKeyEmail": false,
@@ -11,7 +11,7 @@
       {
         "item": {
           "name": "S1008-010",
-          "title": "OEM Qlik Cloud Enterprise Evaluation (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
+          "title": "OEM Qlik Sense Enterprise SaaS and Qlik Cloud Data Services",
           "attributes": [
             {
               "name": "PRODUCTLEVEL",

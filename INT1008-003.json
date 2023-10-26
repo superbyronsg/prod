@@ -1,7 +1,7 @@
 {
   "name": "INT1008-003",
-  "version": 21,
-  "title": "Qlik Cloud Enterprise INTERNAL (Qlik Sense Enterprise SaaS, Qlik Cloud Data Services)",
+  "version": 23,
+  "title": "Qlik Sense Enterprise SaaS and Qlik Cloud Data Services",
   "category": "INTERNAL_USE",
   "description": "25 Professional, 25 Analyzer users, 10000 Analyzer Time Minutes, AutoML Premier, Application Automation Premier, Reporting Service Start Up, Qlik Lineage Connector All|SAP connector, GeoCoding 10000, JWT authentication enabled, Finegrain Access control, BYOK, QCDI|Valid 5 years",
   "sendLicenseKeyEmail": false,
@@ -12,7 +12,7 @@
       {
         "item": {
           "name": "INT1008-003",
-          "title": "Qlik Cloud Enterprise INTERNAL (Qlik Sense SaaS, Qlik Data Integration)",
+          "title": "Qlik Sense Enterprise SaaS and Qlik Cloud Data Services",
           "attributes": [
             {
               "name": "PRODUCTLEVEL",
@@ -61,7 +61,7 @@
             },
             {
               "name": "AMLDATASETSIZE",
-              "value": "10000000",
+              "value": "100000000",
               "counted": false
             },
             {

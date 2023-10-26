@@ -1,6 +1,6 @@
 {
   "name": "S6006-002",
-  "version": 2,
+  "version": 3,
   "title": "Qlik GeoAnalytics Enterprise",
   "category": "NFR",
   "description": "Qlik GeoAnalytics Enterprise|valid 365 days",
@@ -44,5 +44,6 @@
   },
   "lasEnabled": false,
   "ranking": 6006002,
+  "productFamily": "Client-Managed",
   "includeControlNumber": false
 }

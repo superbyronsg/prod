@@ -1,7 +1,7 @@
 {
   "name": "S1008-001",
-  "version": 34,
-  "title": "Qlik Cloud Enterprise Evaluation (Qlik Sense Enterprise SaaS, Qlik Cloud Data Services)",
+  "version": 36,
+  "title": "Qlik Sense Enterprise SaaS and Qlik Cloud Data Services",
   "category": "EVALUATION",
   "description": "100 Professional, 100 Analyzer users, 10000 Analzyer Time Minutes, AutoML Premier|SaaS Alerting, SAP connector, GeoCoding 10000, App Evaluation, Automation Tier 1| JWT Authentication, Reporting Services, Finegrain, Lineage Connector, Data Movement and Transformations|Valid 30 days",
   "sendLicenseKeyEmail": false,
@@ -11,7 +11,7 @@
       {
         "item": {
           "name": "S1008-001",
-          "title": "Qlik Cloud Enterprise Evaluation (Qlik Sense Enterprise SaaS, Qlik Data Integration)",
+          "title": "Qlik Sense Enterprise SaaS and Qlik Cloud Data Services",
           "attributes": [
             {
               "name": "PRODUCTLEVEL",
@@ -60,7 +60,7 @@
             },
             {
               "name": "AMLDATASETSIZE",
-              "value": "10000000",
+              "value": "100000000",
               "counted": false
             },
             {

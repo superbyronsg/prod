@@ -1,6 +1,6 @@
 {
   "name": "S9005-003",
-  "version": 3,
+  "version": 4,
   "title": "Qlik NPrinting",
   "category": "NFR",
   "description": "3 engines|Valid one year",
@@ -43,6 +43,7 @@
     "initialDurationDays": 365
   },
   "lasEnabled": false,
-  "ranking": 9005003,
+  "ranking": 2105003,
+  "productFamily": "Client-Managed",
   "includeControlNumber": false
 }

@@ -1,6 +1,6 @@
 {
   "name": "INT4750-001",
-  "version": 3,
+  "version": 4,
   "title": "QlikView Enterprise Edition Server",
   "category": "INTERNAL_USE",
   "description": "QlikView Enterprise Edition Server Evaluation LEF license with control number INTERNAL USE|100 each of User, Session, Document and Usage CALs, Workbench, 99 Nodes|Valid 5 Year",
@@ -73,6 +73,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": true,
-  "ranking": 4750001,
+  "ranking": 9550001,
+  "productFamily": "Legacy",
   "includeControlNumber": true
 }

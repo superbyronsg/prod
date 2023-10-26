@@ -1,6 +1,6 @@
 {
   "name": "INT6006-001",
-  "version": 2,
+  "version": 3,
   "title": "Qlik GeoAnalytics Enterprise",
   "category": "INTERNAL_USE",
   "description": "Qlik GeoAnalytics Enterprise|Valid for 5 years",
@@ -48,6 +48,7 @@
     "initialDurationDays": 1825
   },
   "lasEnabled": false,
-  "ranking": 6006001,
+  "ranking": 2006001,
+  "productFamily": "Client-Managed",
   "includeControlNumber": false
 }
